@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>Insert title here</title>
+<title>index.jsp</title>
 </head>
 <body>
-
+    <h2>Git수업</
 </body>
 </html>
