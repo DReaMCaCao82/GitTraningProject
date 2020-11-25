@@ -10,6 +10,9 @@
     <h2>Git수업</h2>
     <fieldset>
     	<legend>뭐라고 썼지 못들었네..ㅎㅎ;;</legend>
+    	<ul>
+    		<li>자바</li>
+    	</ul>
     </fieldset>
 </body>
 </html>
