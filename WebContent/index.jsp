@@ -7,6 +7,9 @@
 <title>index.jsp</title>
 </head>
 <body>
-    <h2>Git수업</
+    <h2>Git수업</h2>
+    <fieldset>
+    	<legend>뭐라고 썼지 못들었네..ㅎㅎ;;</legend>
+    </fieldset>
 </body>
 </html>
