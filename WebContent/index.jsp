@@ -12,6 +12,7 @@
     	<legend>뭐라고 썼지 못들었네..ㅎㅎ;;</legend>
     	<ul>
     		<li>자바</li>
+    		<li>스프링</li>
     	</ul>
     </fieldset>
 </body>
